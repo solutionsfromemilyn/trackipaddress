@@ -1,0 +1,55 @@
+﻿@page
+@model IPTracker.Pages.IndexModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<!-- Top content -->
+<div class="top-content">
+    <div class="container">
+
+
+        <div class="row">
+            <div class="col-sm-8 col-sm-offset-2 text">
+
+                <h1>IP Geo Identity Finder</h1>
+                <h1>
+                    Do you need to find the IP geolocation such as country, state, city your visitors are coming from? Just type the IP Address and Find !
+                </h1>
+
+                <div class="description">
+                    <form method="post" class="r-form">
+                        <div class="form-group">
+                            <label class="sr-only" for="r-form-first-name">IP Address</label>
+                            <input asp-for="@Model.GeoData.IPAddress" placeholder="IP Address" class="r-form-first-name form-control">
+                        </div>
+
+                        <button type="submit" class="btn">Find</button>
+                    </form>
+                </div>
+
+
+                @if (Model.GeoData.Result.country_name != null)
+    {
+            <div class="col-sm-12 forms-right-icons">
+                <div class="row">
+                    <div class="col-sm-10">
+                        <label class="text">@Model.GeoData.Result.location.capital,</label>
+                        <label class="text">@Model.GeoData.Result.country_name </label>
+                        <img class="img-responsive" src="@Model.GeoData.Result.location.country_flag">
+                    </div>
+                </div>
+            </div>
+}
+
+            </div>
+        </div>
+
+
+
+    </div>
+</div>

@@ -1,0 +1,11 @@
+D:\Pet Projects\IPTracker\IPTracker\bin\Any CPU\Release\netcoreapp2.0\IPTracker.deps.json
+D:\Pet Projects\IPTracker\IPTracker\bin\Any CPU\Release\netcoreapp2.0\IPTracker.runtimeconfig.json
+D:\Pet Projects\IPTracker\IPTracker\bin\Any CPU\Release\netcoreapp2.0\IPTracker.runtimeconfig.dev.json
+D:\Pet Projects\IPTracker\IPTracker\bin\Any CPU\Release\netcoreapp2.0\IPTracker.dll
+D:\Pet Projects\IPTracker\IPTracker\bin\Any CPU\Release\netcoreapp2.0\IPTracker.pdb
+D:\Pet Projects\IPTracker\IPTracker\obj\Any CPU\Release\netcoreapp2.0\IPTracker.csproj.CoreCompileInputs.cache
+D:\Pet Projects\IPTracker\IPTracker\obj\Any CPU\Release\netcoreapp2.0\IPTracker.AssemblyInfoInputs.cache
+D:\Pet Projects\IPTracker\IPTracker\obj\Any CPU\Release\netcoreapp2.0\IPTracker.AssemblyInfo.cs
+D:\Pet Projects\IPTracker\IPTracker\obj\Any CPU\Release\netcoreapp2.0\IPTracker.dll
+D:\Pet Projects\IPTracker\IPTracker\obj\Any CPU\Release\netcoreapp2.0\IPTracker.pdb
+D:\Pet Projects\IPTracker\IPTracker\obj\Any CPU\Release\netcoreapp2.0\IPTracker.csprojResolveAssemblyReference.cache

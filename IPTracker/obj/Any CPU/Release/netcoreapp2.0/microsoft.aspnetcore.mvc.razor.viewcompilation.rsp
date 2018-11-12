@@ -1,0 +1,9 @@
+D:\Pet Projects\IPTracker\IPTracker
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=IPTracker
+--content-root=D:\Pet Projects\IPTracker\IPTracker
+--file=D:\Pet Projects\IPTracker\IPTracker\Pages\Index.cshtml
+--file=D:\Pet Projects\IPTracker\IPTracker\Pages\_Layout.cshtml
+--file=D:\Pet Projects\IPTracker\IPTracker\Pages\_ValidationScriptsPartial.cshtml
+--file=D:\Pet Projects\IPTracker\IPTracker\Pages\_ViewImports.cshtml
+--file=D:\Pet Projects\IPTracker\IPTracker\Pages\_ViewStart.cshtml
